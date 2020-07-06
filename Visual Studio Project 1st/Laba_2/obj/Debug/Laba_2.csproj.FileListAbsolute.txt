@@ -1,0 +1,14 @@
+C:\Users\vadha\source\repos\Laba_2\Laba_2\bin\Debug\Laba_2.exe.config
+C:\Users\vadha\source\repos\Laba_2\Laba_2\bin\Debug\Laba_2.exe
+C:\Users\vadha\source\repos\Laba_2\Laba_2\bin\Debug\Laba_2.pdb
+C:\Users\vadha\source\repos\Laba_2\Laba_2\obj\Debug\Laba_2.csprojAssemblyReference.cache
+C:\Users\vadha\source\repos\Laba_2\Laba_2\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\Users\vadha\source\repos\Laba_2\Laba_2\obj\Debug\Laba_2.exe
+C:\Users\vadha\source\repos\Laba_2\Laba_2\obj\Debug\Laba_2.pdb
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\bin\Debug\Laba_2.exe.config
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\bin\Debug\Laba_2.exe
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\bin\Debug\Laba_2.pdb
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\obj\Debug\Laba_2.csprojAssemblyReference.cache
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\obj\Debug\Laba_2.csproj.CoreCompileInputs.cache
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\obj\Debug\Laba_2.exe
+C:\Users\vadha\Desktop\GreedyAlgo Game\Visual Studio Project\Laba_2\obj\Debug\Laba_2.pdb
